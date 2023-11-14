@@ -1,0 +1,7 @@
+/target/
+/workspace.xml
+*.orig
+.idea
+*.iws
+*.iml
+*.ipr
